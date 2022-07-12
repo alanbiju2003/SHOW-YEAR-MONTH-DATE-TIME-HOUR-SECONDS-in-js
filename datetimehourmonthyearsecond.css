@@ -1,0 +1,23 @@
+.heading{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+
+.smallhead{
+    background-color: aqua;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.smallhead button{
+    background-color: black;
+    color: white;
+    
+    
+}
+.smallhead button:hover{
+    transform: scale(1.2);
+    font-size: 18px;
+}
